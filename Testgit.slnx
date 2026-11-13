@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Testgit/Testgit.vcxproj" Id="b3222f46-e27a-40e3-a1bd-1ebc19270b7f" />
+</Solution>
